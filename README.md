@@ -18,3 +18,5 @@ The fourth number corresponds to the length of the map (number of nodes in acolu
 
 '.' corresponds to an intersection, and ' ' corresponds to a block of houses.
 
+
+![Screen Shot 2020-05-16 at 7 02 18 PM](https://user-images.githubusercontent.com/38958685/82131875-e07f6780-97a7-11ea-9303-1a4de71e73eb.png)
