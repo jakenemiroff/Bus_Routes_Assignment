@@ -2,7 +2,7 @@
 
 This is a simple program written in Java which provided some background into constructing graphs. The idea is to create a path from start to finish for the bus to follow, while keeping in mind the allotted bus changes for the particular map. 
 
-This program takes as input a text file corresponding to a map.
+This program takes as input (command line argument / program argument for eclipse intellij etc..) a text file corresponding to a map. I have provided a few examples. 
 
 ### The map input file:
 
